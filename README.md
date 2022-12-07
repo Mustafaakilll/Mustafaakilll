@@ -5,7 +5,7 @@
 - 💬 Ask me about **Mobile Development Flutter**
 - 📫 How to reach me: **[Twitter](https://twitter.com/mustafaakill), [Instagram](https://instagram.com/mustafaakilll)**
 - 😄 Pronouns: "He/Him"
-- ⚡ Fun fact: :penguin: **Linux** I use Arch btw.
+- ⚡ Fun fact: :penguin: I use Arch btw.
 
 ## &#x1f4c8; GitHub Stats
 <br/>
