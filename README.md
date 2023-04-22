@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Student @ Pamukkale Uni**
-- 🌱 I’m currently learning `.dart`, `.ts`, `.js`
+- 🌱 I’m currently learning `.dart`, `.rs`, `.go`
 - 💬 Ask me about **Mobile Development Flutter**
 - 📫 How to reach me: **[Twitter](https://twitter.com/mustafaakill), [Instagram](https://instagram.com/mustafaakilll)**
 - 😄 Pronouns: "He/Him"
