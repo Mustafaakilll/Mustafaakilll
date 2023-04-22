@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Student @ Pamukkale Uni**
+- 🚩 Currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar) and Part Time [Mobile App Developer](https://www.pau.edu.tr/).
 - 🌱 I’m currently learning `.dart`, `.rs`, `.go`
 - 💬 Ask me about **Mobile Development Flutter**
 - 📫 How to reach me: **[Twitter](https://twitter.com/mustafaakill), [Instagram](https://instagram.com/mustafaakilll)**
