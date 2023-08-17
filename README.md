@@ -10,10 +10,12 @@
 
 ## &#x1f4c8; GitHub Stats
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaakilll&layout=compact&hide=css,html)
-
-![Mustafaakilll's github stats](https://github-readme-stats.vercel.app/api?username=Mustafaakilll&count_private=true&show_icons=true&theme=onedark)
+<a href="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=mustafaakilll&langs_count=8&layout=compact&theme=onedark">
+ <img width="350" height="190" src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=mustafaakilll&langs_count=8&layout=compact&theme=onedark" />
+</a> 
+<a href="https://github-readme-stats-bnqo.vercel.app/api?username=mustafaakilll&theme=onedark&show_icons=true">
+ <img width="467" height="190" src="https://github-readme-stats-bnqo.vercel.app/api?username=mustafaakilll&theme=onedark&show_icons=true" />
+</a>
 
 ## 💼 Skills
 
@@ -31,4 +33,5 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+
 
