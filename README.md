@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Student @ Pamukkale Uni**
-- 🚩 Currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar) and Part Time [Mobile App Developer](https://www.pau.edu.tr/).
-- 🌱 I’m currently learning `.dart`, `.rs`, `.go`
-- 💬 Ask me about **Mobile Development Flutter**
+- 🚩 Currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar) and Freelancer [Junior Backend Developer](https://veriyaz.com.tr/).
+- 🌱 I’m currently learning `.dart`, `.rs`, `.go`, `ex`
+- 💬 Ask me about **Mobile Development Flutter** and **Backend Development**
 - 📫 How to reach me: **[Twitter](https://twitter.com/mustafaakill), [Instagram](https://instagram.com/mustafaakilll)**
 - 😄 Pronouns: "He/Him"
-- ⚡ Fun fact: :penguin: I use Arch btw.
+- ⚡ Fun fact: :penguin: I use Linux btw.
 
 ## &#x1f4c8; GitHub Stats
 <br/>
